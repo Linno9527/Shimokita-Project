@@ -10,5 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d18b971ade15da498642f38cf8dc9e5, type: 3}
-  m_Name: Materal
+  m_Name: "\u4E00\u4E2A\u6728\u5934"
   m_EditorClassIdentifier: 
+  type: Material
+  tName: "\u4E00\u4E2A\u6728\u5934"
+  count: 1
+  info: "\u8981\u81F4\u5BCC\uFF0C\u5148\u64B8\u6811"

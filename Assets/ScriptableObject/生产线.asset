@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ce71a4a2501f54298c44729107f0c3, type: 3}
+  m_Name: "\u751F\u4EA7\u7EBF"
+  m_EditorClassIdentifier: 
+  type: ExtensionBuilding
+  tName: "\u751F\u4EA7\u7EBF"
+  count: 1
+  workingCount: 0
+  needWorkersCount: 2
+  maxWorkersCount: 0
+  workerCount: 0
+  belong: {fileID: 11400000, guid: a06579535b078c842b9feff56b6f49f4, type: 2}
+  level: 0
+  info: 

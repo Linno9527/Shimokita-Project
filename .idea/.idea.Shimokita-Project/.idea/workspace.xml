@@ -26,20 +26,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ccd6217-3e7d-481d-bc55-ccb361ef4986" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/.idea.Shimokita-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptObject/Materal.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptObject/Materal.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Facility_.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Facility_.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/MyScriptableObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/SomeInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/SwitchPanel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/SwitchPanel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Tools.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/XboxONEPro.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/XboxONEPro.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/一个木头.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/一个木头.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/无人机终端.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/无人机终端.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/生产线.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/生产线.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MianScenes.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MianScenes.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptObject.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptObject/Material.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptObject/Material.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptObject.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptObject/Materal.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptObject/Materal.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +73,43 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptObject/Material.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SwitchPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/MyScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/a1/5c210a4f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SwitchPanel.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SomeInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Tools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/ScriptObject/Material.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SwitchPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/FacilityDA.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UpdatePanelInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Tools.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/FacilityInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/MyScriptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" />
       </list>
     </option>
   </component>
@@ -70,12 +124,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35024154" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29951692" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -103,6 +165,11 @@
       <updated>1598534218298</updated>
       <workItem from="1598534228412" duration="345000" />
       <workItem from="1598534607512" duration="861000" />
+      <workItem from="1598600157993" duration="18351000" />
+      <workItem from="1598705706962" duration="4910000" />
+      <workItem from="1598768517495" duration="10941000" />
+      <workItem from="1598869949893" duration="8714000" />
+      <workItem from="1598883823120" duration="3984000" />
     </task>
     <servers />
   </component>
@@ -140,9 +207,89 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="851" y="158" key="SettingsEditor" timestamp="1598534575904">
+    <state x="782" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598880061637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="851" y="158" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598534575904" />
+    <state x="782" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598880061637" />
+    <state width="859" height="301" key="GridCell.Tab.0.bottom" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.0.center" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.0.left" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.0.right" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.1.bottom" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.1.center" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.1.left" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.1.right" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.2.bottom" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.2.center" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.2.left" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.2.right" timestamp="1598883769409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
+    <state width="859" height="301" key="GridCell.Tab.3.bottom" timestamp="1598883769410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
+    <state width="859" height="301" key="GridCell.Tab.3.center" timestamp="1598883769410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
+    <state width="859" height="301" key="GridCell.Tab.3.left" timestamp="1598883769410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
+    <state width="859" height="301" key="GridCell.Tab.3.right" timestamp="1598883769410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="859" height="301" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
+    <state x="851" y="158" key="SettingsEditor" timestamp="1598618989996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="851" y="158" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598618989996" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1598610857555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1598610857555" />
+    <state x="574" y="267" key="run.anything.popup" timestamp="1598881635062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="267" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598881635062" />
+    <state x="690" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1598619902928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598619902928" />
   </component>
 </project>
