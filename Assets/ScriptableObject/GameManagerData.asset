@@ -17,7 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 875daf8f1b83f8d42b7d4f304530f7be, type: 2}
   - {fileID: 11400000, guid: a06579535b078c842b9feff56b6f49f4, type: 2}
   - {fileID: 11400000, guid: 6bab5943d66e06f45b9c6766a08d1337, type: 2}
-  ExtensionBuildingList:
-  - {fileID: 11400000, guid: bfc3db096b4a6af489887067576d4e7f, type: 2}
+  ExtensionBuildingList: []
   MaterialList:
   - {fileID: 11400000, guid: c5002941f36696f44805d791a31406c7, type: 2}

@@ -12,6 +12,8 @@ public class Facility : MyScriptableObject
     public string tName; //设施的名称，为了避免和自带的name搞混
     public int level; //设施的等级，可以提升的
 
+    public List<FacilityLevelUpInfo> levelUpInfo; //升级需要的材料，单独写了个数据储存类
+
     [TextArea] //设施的信息 
     public string info;
 
@@ -21,8 +23,7 @@ public class Facility : MyScriptableObject
     public new void OnEnable()
     {
         base.OnEnable();
-        //从摄像机把数据的object拉过来
-        _gameManagerData = GameObject.Find("Main Camera").GetComponent<GameManager>().gameManagerData;
+        _gameManagerData = GameObject.FindWithTag("MainCamera").GetComponent<GameManager>().gameManagerData;
         //刷新扩展建筑列表
         UpdateExBuildingList();
     }
@@ -33,7 +34,7 @@ public class Facility : MyScriptableObject
         extensionBuildingList.Clear();
 
         //然后把所有属于这个设施的扩展建筑塞进来
-        foreach (var exb in _gameManagerData.ExtensionBuildingList)
+        foreach (var exb in _gameManagerData.extensionBuildingList)
         {
             if (exb.belong == this)
             {

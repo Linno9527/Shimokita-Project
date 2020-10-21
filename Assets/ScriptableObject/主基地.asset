@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: Facility
   tName: "\u4F60\u7684\u4E3B\u57FA\u5730"
-  count: 1
-  maxCount: 1
   level: 0
+  levelUpInfo:
+  - {fileID: 11400000, guid: b45f05a92445b464c9232446ce4213b1, type: 2}
   info: "\u4F60\u7684\u4E3B\u57FA\u5730\uFF0C\u8FD9\u91CC\u9664\u4E86\u4E3B\u57FA\u5730\u4EC0\u4E48\u90FD\u6709"
-  extensionBuildingList: []
+  extensionBuildingList:
+  - {fileID: 11400000, guid: bfc3db096b4a6af489887067576d4e7f, type: 2}

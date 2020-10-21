@@ -7,7 +7,8 @@ using UnityEngine;
 
 public class UpdateFacilityPanel : MonoBehaviour
 {
-    public GameManagerData _gameManagerData;
+    private GameManagerData _gameManagerData;
+    private Tools _tools;
 
     public GameObject facilityListContent;
     public GameObject facilityUiPrefab;
@@ -15,7 +16,10 @@ public class UpdateFacilityPanel : MonoBehaviour
 
     void Start()
     {
-        _gameManagerData = GameObject.FindWithTag("MainCamera").GetComponent<GameManager>().gameManagerData;
+        GameObject minaCamera = GameObject.FindWithTag("MainCamera");
+        _gameManagerData = minaCamera.GetComponent<GameManager>().gameManagerData;
+        _tools = minaCamera.GetComponent<Tools>();
+        
         UpdateFacilityPanelList();
     }
 
@@ -23,11 +27,8 @@ public class UpdateFacilityPanel : MonoBehaviour
     private void UpdateFacilityPanelList()
     {
         //清空内容
-        for (int i = 0; i < facilityListContent.transform.childCount; i++)
-        {
-            Destroy(facilityListContent.transform.GetChild(i).gameObject);
-        }
-
+        _tools.ClearContent(facilityListContent);
+        
         //从全局数据读取设施信息
         foreach (var facility in _gameManagerData.facilityList)
         {

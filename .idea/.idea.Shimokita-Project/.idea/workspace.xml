@@ -26,43 +26,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ccd6217-3e7d-481d-bc55-ccb361ef4986" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Facility_.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Facility_.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/MyScriptableObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/SomeInfo.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/SwitchPanel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/SwitchPanel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Tools.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/XboxONEPro.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/XboxONEPro.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/一个木头.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/一个木头.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/无人机终端.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/无人机终端.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/生产线.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/生产线.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ProLineInfoForPlanningPanel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ProLineInfoForPlanningPanel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/BuffBuilidng.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/FacilityLevelUpInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/FacilityLevelUpInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/ProductionLine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/ProductionLine.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/UpdateMaterialInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/UpdateMaterialInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/UpdateMaterialPanel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/UpdateMaterialPanel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/UpdateProLineInfoAndDoSomething.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地升级到1级.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地升级到1级.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/木头.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObject/木头.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shimokita-Project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MianScenes.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MianScenes.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptObject.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptObject/Material.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptObject/Material.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptObject.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptObject/Materal.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptObject/Materal.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/ScriptableObject/Item.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Tools.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Tools.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObject/GameManagerData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObject/GameManagerData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObject/一个木头.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObject/一个木头.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObject/主基地.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObject/主基地.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObject/生产线.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObject/生产线.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,22 +76,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SwitchPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Item.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/BuffBuilidng.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/MyScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/a1/5c210a4f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SwitchPanel.cs.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SomeInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Tools.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Item.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SomeInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ThisFacilityTransit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SwitchPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SwitchPanel.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Tools.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/FacilityLevelUpInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/UpdateProLineInfoAndDoSomething.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,25 +105,32 @@
         <option value="$PROJECT_DIR$/Assets/Script/GM.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/FacilityDA.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/UpdatePanelInfo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Tools.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/FacilityInfo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/MyScriptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/LevelUpInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/ExtensionBuilding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/BuffBuilidng.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/FacilityLevelUpInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UpdateProLineInfo.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/Material.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ThisFacilityTransit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/GameManagerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SomeInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/Facility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ProLineInfoForPlanningPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UpdateFacilityPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScriptableObject/ProductionLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UpdateProLineInfoAndDoSomething.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Tools.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/FacilityInfoForPlanningPanel.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ggROVkfflCo1eZS9AO1IAI3nYO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="新增" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -137,22 +151,30 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.T4" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="21068">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="21068" />
+      <option name="selectedOptions">
+        <set />
+      </option>
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -170,11 +192,31 @@
       <workItem from="1598768517495" duration="10941000" />
       <workItem from="1598869949893" duration="8714000" />
       <workItem from="1598883823120" duration="3984000" />
+      <workItem from="1599045132101" duration="664000" />
+      <workItem from="1599201632402" duration="7591000" />
+      <workItem from="1599736542234" duration="634000" />
+      <workItem from="1599737721974" duration="41000" />
+      <workItem from="1599737783727" duration="260000" />
+      <workItem from="1599738122397" duration="2105000" />
+      <workItem from="1599904792285" duration="267000" />
+      <workItem from="1599905085197" duration="3549000" />
+      <workItem from="1600351330039" duration="206000" />
+      <workItem from="1600351575877" duration="841000" />
+      <workItem from="1600514997456" duration="4553000" />
+      <workItem from="1600597349824" duration="1188000" />
+      <workItem from="1600858034330" duration="149000" />
+      <workItem from="1600858441857" duration="5351000" />
+      <workItem from="1603211425563" duration="41000" />
+      <workItem from="1603212044246" duration="13000" />
+      <workItem from="1603212205053" duration="1431000" />
+      <workItem from="1603218512832" duration="147000" />
+      <workItem from="1603218720967" duration="11287000" />
+      <workItem from="1603230237487" duration="6791000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
@@ -207,78 +249,86 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="818" y="213" key="#Plugins" timestamp="1600858637211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="213" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1600858637211" />
     <state x="782" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598880061637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598880061637" />
-    <state width="859" height="301" key="GridCell.Tab.0.bottom" timestamp="1598883769409">
+    <state x="741" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603211430158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.0.center" timestamp="1598883769409">
+    <state x="741" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603211430158" />
+    <state width="859" height="301" key="GridCell.Tab.0.bottom" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.0.left" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.0.center" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.0.right" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.0.left" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.1.bottom" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.0.right" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.1.center" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.1.bottom" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.1.left" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.1.center" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.1.right" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.1.left" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.2.bottom" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.1.right" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.2.center" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.2.bottom" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.2.left" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.2.center" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.2.right" timestamp="1598883769409">
+    <state width="859" height="301" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.2.left" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769409" />
-    <state width="859" height="301" key="GridCell.Tab.3.bottom" timestamp="1598883769410">
+    <state width="859" height="301" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.2.right" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
-    <state width="859" height="301" key="GridCell.Tab.3.center" timestamp="1598883769410">
+    <state width="859" height="301" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.3.bottom" timestamp="1603239944870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
-    <state width="859" height="301" key="GridCell.Tab.3.left" timestamp="1598883769410">
+    <state width="859" height="301" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944870" />
+    <state width="859" height="301" key="GridCell.Tab.3.center" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
-    <state width="859" height="301" key="GridCell.Tab.3.right" timestamp="1598883769410">
+    <state width="859" height="301" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.3.left" timestamp="1603239944869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="859" height="301" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598883769410" />
-    <state x="851" y="158" key="SettingsEditor" timestamp="1598618989996">
+    <state width="859" height="301" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944869" />
+    <state width="859" height="301" key="GridCell.Tab.3.right" timestamp="1603239944870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="851" y="158" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598618989996" />
+    <state width="859" height="301" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603239944870" />
+    <state x="922" y="171" key="SettingsEditor" timestamp="1603222770890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603222770890" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1598610857555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

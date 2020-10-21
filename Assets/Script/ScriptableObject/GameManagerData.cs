@@ -12,8 +12,8 @@ public class GameManagerData : MyScriptableObject
 
     //所有的设施
     public List<Facility> facilityList;
-    public List<ExtensionBuilding> ExtensionBuildingList;
-    public List<Material> MaterialList;
+    public List<ExtensionBuilding> extensionBuildingList;
+    public List<Item> itemList;
 
     //资源目录与文件信息
     private string assetPath = "Assets/ScriptableObject/";
@@ -38,8 +38,8 @@ public class GameManagerData : MyScriptableObject
     {
         //清空所有列表
         facilityList.Clear();
-        ExtensionBuildingList.Clear();
-        MaterialList.Clear();
+        extensionBuildingList.Clear();
+        itemList.Clear();
         
         //用资源名读取Asset,随后分配给各个list
         foreach (var a in _allAssetFileName)
@@ -53,17 +53,19 @@ public class GameManagerData : MyScriptableObject
                         facilityList.Add((Facility)temp);
                         break;
                     case "ExtensionBuilding":
-                        ExtensionBuildingList.Add((ExtensionBuilding)temp);
+                        extensionBuildingList.Add((ExtensionBuilding)temp);
                         break;
-                    case "Material":
-                        MaterialList.Add((Material)temp);
+                    case "ProductionLine":
+                        extensionBuildingList.Add((ProductionLine)temp);
+                        break;
+                    case "BuffBuilding":
+                        extensionBuildingList.Add((BuffBuilidng)temp);
+                        break;
+                    case "Item":
+                        itemList.Add((Item)temp);
                         break;
                 }
-
             }
         }
     }
-    
-
-
 }

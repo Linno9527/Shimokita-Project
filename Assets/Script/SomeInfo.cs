@@ -22,7 +22,7 @@ public class SomeInfo : MonoBehaviour
     //打开设施规划面板，把facility传递过去，这个方法只会被按钮调用
     public void DisplayPanningPanel()
     {
-        planningPanel.GetComponent<FacilityInfoForPlanningPanel>().thisFacility = thisFacility;
+        planningPanel.GetComponent<ThisFacilityTransit>().thisFacility = thisFacility;
         planningPanel.SetActive(true);
     }
 }
