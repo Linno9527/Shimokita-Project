@@ -26,38 +26,38 @@ public class Tools : MonoBehaviour
     }
     
     
-    public class ChangeFontWindow : EditorWindow
-    {
-        [MenuItem("自制工具/批量更换字体")]
-        public static void Open()
-        {
-            EditorWindow.GetWindow(typeof(ChangeFontWindow));
-        }
- 
-        public Font toChange;
-        static Font toChangeFont;
- 
-        void OnGUI()
-        {
-            GUILayout.Label("选择要换的字体，然后去左边的列表选择父对象\n即可批量替换字体");
-            toChange = (Font)EditorGUILayout.ObjectField(toChange, typeof(Font), true, GUILayout.MinWidth(20f));
-            toChangeFont = toChange;
-            titleContent = new GUIContent("批量更换字体");
-            if (GUILayout.Button("批量更换字体"))
-            {
-                Change();
-            }
-        }
- 
-        public static void Change()
-        {
-            Object[] labels = Selection.GetFiltered(typeof(Text), SelectionMode.Deep);
-            foreach (Object item in labels)
-            {
-                Text text = (Text)item;
-                text.font = toChangeFont;
-                Debug.Log(item.name + ":" + text.text);
-            }
-        }
-    }
+    // public class ChangeFontWindow : EditorWindow
+    // {
+    //     [MenuItem("自制工具/批量更换字体")]
+    //     public static void Open()
+    //     {
+    //         EditorWindow.GetWindow(typeof(ChangeFontWindow));
+    //     }
+    //
+    //     public Font toChange;
+    //     static Font toChangeFont;
+    //
+    //     void OnGUI()
+    //     {
+    //         GUILayout.Label("选择要换的字体，然后去左边的列表选择父对象\n即可批量替换字体");
+    //         toChange = (Font)EditorGUILayout.ObjectField(toChange, typeof(Font), true, GUILayout.MinWidth(20f));
+    //         toChangeFont = toChange;
+    //         titleContent = new GUIContent("批量更换字体");
+    //         if (GUILayout.Button("批量更换字体"))
+    //         {
+    //             Change();
+    //         }
+    //     }
+    //
+    //     public static void Change()
+    //     {
+    //         Object[] labels = Selection.GetFiltered(typeof(Text), SelectionMode.Deep);
+    //         foreach (Object item in labels)
+    //         {
+    //             Text text = (Text)item;
+    //             text.font = toChangeFont;
+    //             Debug.Log(item.name + ":" + text.text);
+    //         }
+    //     }
+    // }
 }

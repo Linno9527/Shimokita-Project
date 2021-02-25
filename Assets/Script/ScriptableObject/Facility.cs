@@ -20,10 +20,18 @@ public class Facility : MyScriptableObject
     //扩展建筑列表
     public List<ExtensionBuilding> extensionBuildingList;
 
-    public void Awake()
+    public new void OnEnable()
     {
         base.OnEnable();
-        _gameManagerData = GameObject.FindWithTag("MainCamera").GetComponent<GameManager>().gameManagerData;
+        if (GameObject.FindWithTag("MainCamera") != null)
+        {
+            _gameManagerData = GameObject.FindWithTag("MainCamera").GetComponent<GameManager>().gameManagerData;
+        }
+        else
+        {
+            return;
+        }
+
         //刷新扩展建筑列表
         UpdateExBuildingList();
     }
